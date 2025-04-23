@@ -1,0 +1,41 @@
+_repo: Delutani-alom_75724
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Csáth, Géza
+    aliases:
+    - Csath, Geza
+    - Brenner, József
+    - Brenner, Jozsef
+    birthdate: 1887
+    deathdate: 1919
+    gutenberg_agent_id: '53801'
+    url: http://www.gutenberg.org/2009/agents/53801
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/Cs%C3%A1th_G%C3%A9za
+    - https://en.wikipedia.org/wiki/G%C3%A9za_Cs%C3%A1th
+description: ''
+gutenberg_issued: '2025-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75724'
+language: hu
+pgterms:marc905: 20250325110814csth
+pgterms:marc906: '1911'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: '  $aBudapest :$bNyugat, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcsh 'Short stories, Hungarian'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Délutáni álom -- Anyagyilkosság -- A kisasszony -- Régi levél --
+  Opium -- Johanna -- Józsika -- Pista -- Nagy Balázs – kis Balázs -- Emlékirat eltévedésemről
+  -- A Kálvin-téren -- A hegyszoros.
+title: Délutáni álom
+url: http://www.gutenberg.org/ebooks/75724
