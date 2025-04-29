@@ -1,5 +1,8 @@
 _repo: Delutani-alom_75724
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Csáth, Géza
@@ -15,6 +18,8 @@ creator:
     - https://hu.wikipedia.org/wiki/Cs%C3%A1th_G%C3%A9za
     - https://en.wikipedia.org/wiki/G%C3%A9za_Cs%C3%A1th
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75724#Delutani-alom
 gutenberg_issued: '2025-03-26'
 gutenberg_type: Text
 identifiers:
